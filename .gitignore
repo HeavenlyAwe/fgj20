@@ -78,3 +78,7 @@ DerivedDataCache/*
 *.opendb
 *.blend1
 *.rsls
+
+# Unreal Editor complains when compiled and noncompiled versions use
+# the same .uproject file. Don't track it so they can differ
+fgj20.uproject
