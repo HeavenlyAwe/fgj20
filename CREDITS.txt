@@ -1,0 +1,11 @@
+ZEUS (Zapping Environmental UFO Simulator) CREDITS
+
+AUTHORS:
+Christoffer Fridlund
+Anders Forsman
+Göran Maconi
+Emil Levo
+
+AUDIO:
+Martian Death Ray Sound by Mike Koenig on http://soundbible.com/1885-Martian-Death-Ray.html
+Ray Gun Sound by Mike Koenig on http://soundbible.com/1770-Ray-Gun.html
